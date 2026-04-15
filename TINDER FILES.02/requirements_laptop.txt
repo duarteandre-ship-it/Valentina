@@ -1,0 +1,4 @@
+openai>=1.30.0
+opencv-python>=4.9.0
+pygame>=2.5.0
+pynput>=1.7.0

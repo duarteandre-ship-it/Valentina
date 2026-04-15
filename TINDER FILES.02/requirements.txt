@@ -1,0 +1,4 @@
+openai>=1.30.0
+opencv-python-headless>=4.9.0
+pyserial>=3.5
+pygame>=2.5.0
